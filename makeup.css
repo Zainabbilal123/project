@@ -8,12 +8,18 @@ body{
     padding: 40px;
     text-transform: uppercase;
     margin: 4px;
+    word-spacing: 8px;
+
 
    
 }
 
+
 a{
     color: rgb(82, 128, 82);
+    text-decoration: none;
+    
+    
    
    
    
@@ -35,9 +41,13 @@ button{
     margin: 25px;
     padding: 10px;
     border-width: 1px;
+    border-style: double;
 }
 p{
     text-transform: lowercase;
+}
+a:hover{
+    text-decoration: underline;
 }
 
 
