@@ -1,0 +1,43 @@
+
+
+body{
+    background-image: url(./gray-sofa-white-living-room-interior-with-copy-space-3d-rendering_43614-802.avif);
+    background-repeat:  no-repeat;
+    background-size: cover;
+    text-align: right;
+    padding: 40px;
+    text-transform: uppercase;
+   
+}
+
+a{
+    color: black;
+   
+   
+   
+    
+
+}
+div{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 150px;
+    color:black;
+    
+    
+}
+button{
+    background-color: lightblue;
+    border-radius: 30%;
+    margin: 20px;
+    padding: 10px;
+}
+p{
+    text-transform: lowercase;
+}
+
+
+
+   
+
+
